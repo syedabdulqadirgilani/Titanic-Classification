@@ -63,7 +63,7 @@ Note: Seaborn’s version is **slightly different** from Kaggle’s CSV (column 
 
 ---
 
-## Full Code
+## Code
 
 ```python
 # %%
